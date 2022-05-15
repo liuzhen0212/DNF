@@ -1,5 +1,5 @@
 # DNF
-Pytorch implementation for paper ''DNF: Diffractive Neural Field for Lensless 2 Microscopic Imaging''.
+Pytorch implementation for paper ''DNF: Diffractive Neural Field for Lensless Microscopic Imaging''.
 
 ## Pipeline
 <img src="./imgs/imaging_model.png">
@@ -51,3 +51,6 @@ Simulation results
 <img src="./imgs/synthesis_results.png">
 
 ## Citation
+```
+Hao Zhu, Zhen Liu, You Zhou, Zhan Ma, and Xun Cao, "DNF: diffractive neural field for lensless microscopic imaging," Opt. Express 30, 18168-18178 (2022)
+```
