@@ -1,0 +1,6 @@
+UpSampleRatio = 1.2; 		% Upsample ratio
+PixelSize = 1.67e-6/UpSampleRatio; 	% Effective pixel size of imaging system (unit: m)
+WaveLength = 638e-9; 		% Wavelength(green) of LED light (unit: m)
+DistanceSample2CCD_MH = [1.0680, 1.1200, 1.1710, 1.2230, 1.2740, 1.3260, 1.3770, 1.4290] * 1e-3; % calculated by matlab
+
+Actually, you can generate corresponding raw images and PropCTFSet.mat according to CropImgSet_MH_expo.mat and above parameters.
