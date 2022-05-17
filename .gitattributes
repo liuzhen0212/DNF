@@ -1,2 +1,4 @@
 DataSet/biological_data_cell_960x960_8/CropImgSet_MH_expo.mat filter=lfs diff=lfs merge=lfs -text
 DataSet/biological_data_fibor_960x960_8/CropImgSet_MH_expo.mat filter=lfs diff=lfs merge=lfs -text
+DataSet/biological_data_fibor_960x960_8/PropCTFSet.mat filter=lfs diff=lfs merge=lfs -text
+DataSet/biological_data_cell_960x960_8/PropCTFSet.mat filter=lfs diff=lfs merge=lfs -text
