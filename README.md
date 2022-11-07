@@ -17,7 +17,8 @@ Dependencies:
 
 We provide a conda environment setup file including all of the above dependencies. Create the conda environment DNF by running:
 ```
-conda env create -f environment.yml
+conda create -n dnf python=3.7
+pip install -r requirements.txt
 ```
 
 ## Running code
